@@ -1,1 +1,1 @@
-cat
+print('cat')
